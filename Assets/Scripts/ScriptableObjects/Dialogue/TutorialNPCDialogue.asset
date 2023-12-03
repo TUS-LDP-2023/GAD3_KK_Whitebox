@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19831ae3402a5554ca4718697a27a46f, type: 3}
+  m_Name: TutorialNPCDialogue
+  m_EditorClassIdentifier: 
+  DialogueList:
+  - dialogue: {fileID: 11400000, guid: af7450476a015b94cadd313834bd3fb7, type: 2}
+  - dialogue: {fileID: 11400000, guid: ba1fd58de46a19b43a247a605465e849, type: 2}
+  - dialogue: {fileID: 11400000, guid: e877652b96b59a343b5fb4107df41e19, type: 2}
+  - dialogue: {fileID: 11400000, guid: 568da4eadeee78247bffa8c0b81d256a, type: 2}
+  - dialogue: {fileID: 11400000, guid: bc1e972eba15fa946a1d70aa38c10fd8, type: 2}
+  - dialogue: {fileID: 11400000, guid: 9e5f46bdcb967b24a88b2ef797e56f77, type: 2}
+  - dialogue: {fileID: 11400000, guid: 2897c7976a3a0c346a32500fb84d221c, type: 2}
+  - dialogue: {fileID: 11400000, guid: 128cc16314b021c41bac12308e49bdc5, type: 2}
